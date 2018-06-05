@@ -1,0 +1,54 @@
+# IntelliJ config files
+.idea
+.idea/
+.idea/*
+*.iml
+*.log
+*.log.*
+
+# IntelliJ kotlin...
+out/
+
+# Bytecode Python files
+*.pyc
+
+# Spyder Projects & config files
+.spyderworkspace
+.spyderproject
+
+# RStudio config files
+.Rhistory
+.Rproj
+.Rproj/*
+.Rproj*
+.Rproj*/
+.Rproj*/*
+.RProj*
+.RProj*/
+.RProj*/*
+
+# vim swp file
+*.swp
+
+# Winmerge backup files
+*.bak
+
+# Virtual Environment folder
+env/*
+
+# Configuration file
+config/config.conf
+config/config.cson
+
+# Logs files
+logs
+
+# Unit tests
+.coverage
+coverage.xml
+nosetests.xml
+
+Notebooks/.ipynb_checkpoints
+Notebooks/.ipynb_checkpoints/*
+pkl*
+pkl*/*
